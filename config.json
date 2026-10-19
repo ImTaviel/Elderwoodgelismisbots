@@ -1,0 +1,21 @@
+{
+  "guildId": "1445831821073055886",
+  "applicationChannelId": "1558152357148237874",
+  "applicationLogChannelId": "1561702408327921705",
+  "contentPassiveLogChannelId": "1561701611602972743",
+  "silverLogChannelId": "1561701459341475910",
+  "auditLogChannelId": "1561701611602972743",
+  "managementChannelId": "1561702408327921705",
+  "albionGuildId": "dQgdHO7NR22yQsq_0KuJxQ",
+  "automaticRoleRemoval": false,
+  "memberRoleIdsToRemove": [],
+  "adminRoleIds": [1558114428287848459, 1558159272850890832 , 1446949480908722277 , 1446949611674796147],
+  "levelRoles": {
+    "10": "1561702604550045706",
+    "20": "1561702712599519304",
+    "30": "1561702718299578478",
+    "40": "1561702721751482389",
+    "50": "1561702725731885076"
+  },
+  "timezone": "Europe/Istanbul"
+}
